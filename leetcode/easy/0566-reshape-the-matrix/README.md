@@ -45,9 +45,9 @@ Output: [[1,2],[3,4]]
 ## Solution
 
 **Language:** C  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 15.7 MB (beats 85.60%)  
-**Submitted:** 2026-11-28T07:20:42.252Z  
+**Runtime:** 1 ms (beats 20.03%)  
+**Memory:** 15.9 MB (beats 13.61%)  
+**Submitted:** 2026-11-28T07:25:49.602Z  
 
 ```c
 int** matrixReshape(int** mat, int matSize, int* matColSize, int r, int c, int* returnSize, int** returnColumnSizes) {
